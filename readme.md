@@ -8,4 +8,4 @@ Using W3.CSS framework.
 
 A boudoir photographer showcase portfolio frontend webpage.
 
-[live link](https://areksoulahian.github.io/craft_photography/)
+[live netlify link](https://boudoirbydre.netlify.app/)
