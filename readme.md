@@ -2,9 +2,7 @@
 
 ## Simple Photography portfolio page
 
-A website using a W3C responsive template.
-
-Using W3.CSS framework.
+A website using Bootrap-5 Framework.
 
 A boudoir photographer showcase portfolio frontend webpage.
 
